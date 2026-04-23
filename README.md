@@ -1,5 +1,5 @@
 # Atividade-N2-Web3✴️
-<h2>Este é um pequeno exemplo de arquivo Readme.</h2>
+<h2>Uma api simples com integração com mongodb.</h2>
 <p>Como proposto na atividade, aqui consta a documentação de uma api fictícia. Um exercício desenvolvido como forma de treinar os conhecimentos ao longo da disciplina. A api consiste em um CRUD para um sistema de gerenciamento de clientes cujos atributos são: <code><strong>nome</strong></code>, <code><strong>cpf</strong></code>, <code><strong>email</strong></code>, <code><strong>cidade</strong></code> e <code><strong>telefone</strong></code> </p>
 
 <nav>
